@@ -8,11 +8,11 @@
 
 1. Execute o script passando o algoritmo de hash desejado e a palavra-chave.
    Formato: `python3 hashit.py <algorithm> <keyword>`
-2. Use a opção `-h` ou `--help` para obter mais informações sobre como usar o script.
+2. Use a opção `-h` ou `--help` para obter mais informações sobre como usar o programa.
 
 ## Exemplo:
-$ `python3 hashit.py sha256 password`
-> output: [+] Hash sha256 of 'password123': 5f4dcc3b5aa765d61d8327deb882cf99
+$ `python3 hashit.py md5 password`
+> output: [+] Hash md5 of 'password123': 5f4dcc3b5aa765d61d8327deb882cf99
 
 
 
