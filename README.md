@@ -1,7 +1,7 @@
 ## Instalação:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Navegue até o diretório do projeto: `cd nome-do-repositorio`
+1. Clone o repositório: `git clone https://github.com/gustavochotti/hashit`
+2. Navegue até o diretório do projeto: `cd hashit`
 3. Instale as dependências: `pip install -r requirements.txt`
 
 ## Uso:
@@ -12,7 +12,7 @@
 
 ## Exemplo:
 $ `python hash_generator.py sha256 password123`
-- output: [+] Hash sha256 of 'password123': aad3b435b51404ee
+> output: [+] Hash sha256 of 'password123': aad3b435b51404ee
 
 
 
