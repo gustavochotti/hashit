@@ -11,8 +11,8 @@
 2. Use a opção `-h` ou `--help` para obter mais informações sobre como usar o script.
 
 ## Exemplo:
-1. `python hash_generator.py sha256 password123`
-2. [+] Hash sha256 of 'password123': aad3b435b51404ee
+$ `python hash_generator.py sha256 password123`
+output: [+] Hash sha256 of 'password123': aad3b435b51404ee
 
 
 
