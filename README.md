@@ -12,7 +12,7 @@
 
 ## Exemplo:
 $ `python hash_generator.py sha256 password123`
-output: [+] Hash sha256 of 'password123': aad3b435b51404ee
+- output: [+] Hash sha256 of 'password123': aad3b435b51404ee
 
 
 
